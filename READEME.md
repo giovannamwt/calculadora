@@ -10,10 +10,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - Github
 
-## Imagens do site:
-![](/site.PNG "Print.")
-
 ## Créditos
 Desenvolvedores:
 - [Giovanna](https://github.com/giovannamwt)
 - [Leandro](https://github.com/skulzks)
+
