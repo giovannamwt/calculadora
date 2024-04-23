@@ -24,7 +24,6 @@ main{
     gap: 26px;
     flex-shrink: 0;
     background-color: #2D2A37;
-
     border-radius: 20px;
     background: #2D2A37;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 188px 52px 0px rgba(0, 0, 0, 0.01), 0px 120px 48px 0px rgba(0, 0, 0, 0.04), 0px 68px 41px 0px rgba(0, 0, 0, 0.15), 0px 30px 30px 0px rgba(0, 0, 0, 0.26), 0px 8px 17px 0px rgba(0, 0, 0, 0.29), 0px 6px 8px 0px rgba(255, 255, 255, 0.10) inset, 0px -4px 5px 0px rgba(0, 0, 0, 0.22) inset;
@@ -58,7 +57,7 @@ span{
 .resultado{
     color: #EBEBEB;
     text-align: right;
-    font-family: Rubik;
+    font-family: "Rubik";
     font-size: 36px;
     font-style: normal;
     font-weight: 400;
@@ -92,7 +91,7 @@ ul{
     border-radius: 20px;
     color: #EBEBEB;
     text-align: center;
-    font-family: "Rubik" sans-serif;
+    font-family: "Rubik";
     font-size: 24px;
 }
 .botao1:hover{
@@ -108,7 +107,7 @@ ul{
     border-radius: 20px;
     color: #EBEBEB;
     text-align: center;
-    font-family: "Rubik" sans-serif;
+    font-family: "Rubik";
     font-size: 24px;
 }
 .botao2:hover{
